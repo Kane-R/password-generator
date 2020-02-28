@@ -185,7 +185,7 @@ function passwordGenerate() {
 
   }
   else {
-      alert("HEY!!! CONCENTRATE!!!  Enter a number between 8 and 128 or I'll activate all those viruses I just installed");
+      alert("HEY!!! CONCENTRATE!!! Enter a number between 8 and 128 or I'll activate all those viruses I just installed.");
   }
 }
 
