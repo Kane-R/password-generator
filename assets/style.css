@@ -1,8 +1,10 @@
 body {background-color:#f8f9fa; padding: 2em;}
+
 header, header h1 {text-align: center; margin-bottom: 25px;}
+
 .main-box {
     background-color: #ffffff;
-    padding: 2em;
+    padding: .4em;
     text-align: center;
     border-radius: 5px;
     -webkit-box-shadow: 2px 6px 18px 1px rgba(0,0,0,0.75);
@@ -10,6 +12,7 @@ header, header h1 {text-align: center; margin-bottom: 25px;}
     box-shadow: 2px 6px 18px 1px rgba(0,0,0,0.75);
 }
 textarea {
+    margin-top: 10px;
     border: 3px dashed gray;
     padding-top: 1.2em;
     width: 90%;
@@ -25,7 +28,8 @@ button#generate {
     font-weight: bold;
 }
 button#copy {
-    margin-top: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     padding: 10px;
     border-radius: 22px;
     font-weight: bold;
